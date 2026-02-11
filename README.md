@@ -14,11 +14,11 @@ I'm a developer for microcontroller and computer systems
 Camera:
 https://youtu.be/_1owCGa9Qm4
 
+Fancy Holograms:
+https://youtu.be/7GgOgwoUwq4
+
 Discord Linking Bot:
 https://youtu.be/ojnvIL24gII
-
-Text display editor:
-https://www.youtube.com/watch?v=lNDngYvjX2A
 
 Anti Block Glitch:
 https://www.youtube.com/watch?v=LpixIsEPgdc
