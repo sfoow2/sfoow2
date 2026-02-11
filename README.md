@@ -32,9 +32,6 @@ https://youtu.be/vA5fq_f25no
 Spider that I made using inverse kinematics:
 https://youtu.be/L6zPjhd4Sv0
 
-Boss Fights: (my server)
-https://youtu.be/lKVnqhdsQwc
-
 Fish "Ai":
 https://youtu.be/kNvxLLI-U-Y
 
