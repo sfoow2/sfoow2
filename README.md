@@ -21,7 +21,7 @@ Discord Linking Bot:
 https://youtu.be/ojnvIL24gII
 
 Anti Block Glitch:
-https://www.youtube.com/watch?v=LpixIsEPgdc
+[https://www.youtube.com/watch?v=LpixIsEPgdc](https://www.youtube.com/watch?v=6RM-Y8NZq2A)
 
 The fall (favorite project):
 https://youtu.be/Max-IjlLFbE
