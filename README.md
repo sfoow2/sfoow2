@@ -27,7 +27,10 @@ The fall (favorite project):
 https://youtu.be/Max-IjlLFbE
 
 randomly generated dungeon server I made:
-https://youtu.be/vA5fq_f25no
+[https://youtu.be/vA5fq_f25no](https://youtu.be/07_TcTLUYTA)
+
+Boss Fight for RngDungeons:
+https://youtu.be/yVA25PpN-zo
 
 Spider that I made using inverse kinematics:
 https://youtu.be/L6zPjhd4Sv0
