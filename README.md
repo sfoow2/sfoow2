@@ -38,6 +38,4 @@ https://youtu.be/lKVnqhdsQwc
 Fish "Ai":
 https://youtu.be/kNvxLLI-U-Y
 
-Database showcase:
-https://youtu.be/ipg1uRVcpKI
 
